@@ -37,3 +37,14 @@ a {
 
 img {
 }
+
+video {
+	max-width: 100%;
+	height: auto;
+}
+
+.video-container {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
