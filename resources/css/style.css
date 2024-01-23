@@ -36,6 +36,8 @@ a {
 }
 
 img {
+	max-width: 100%;
+	height: auto;
 }
 
 video {
@@ -44,6 +46,12 @@ video {
 }
 
 .video-container {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.image-container {
 	display: flex;
 	justify-content: center;
 	align-items: center;
