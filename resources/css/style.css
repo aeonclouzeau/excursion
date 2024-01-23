@@ -56,6 +56,16 @@ section a {
 	margin: 10px;
 }
 
+footer {
+	display: flex;
+	justify-content: flex-end;
+}
+
+footer p {
+	display: inline-block;
+	margin: 10px;
+}
+
 .video-container {
 	display: flex;
 	justify-content: center;
